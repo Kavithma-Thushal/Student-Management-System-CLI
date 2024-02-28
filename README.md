@@ -1,4 +1,4 @@
-# ✌️Student Management System CLI
+# ✌️Student Management System - CLI
 
 This is a Command Line Interface (CLI) application designed to manage student information efficiently. It provides
 functionalities to add, view, update, and delete student records through simple commands in the terminal. The Student
