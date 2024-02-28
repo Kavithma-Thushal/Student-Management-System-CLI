@@ -12,14 +12,14 @@ name, ID, grades, and attendance.
 
 ## Features
 
-✅Add New Students using Student Id & Name</br>
-✅Add New Students using Student Id & Name with their Marks</br>
-✅Add Student Marks</br>
-✅Search for students Student Id</br>
-✅Update Student Details</br>
-✅Update Student Marks</br>
-✅Delete student records from the system</br>
-✅Print Student Ranks</br>
+✅Register New Students by Providing Student ID and Name</br>
+✅Enroll New Students with Detailed Information, Including Marks</br>
+✅Record and Store Student Marks</br>
+✅Search for students by Student ID</br>
+✅Update and Modify Student Information</br>
+✅Adjust and Revise Student Marks as Needed</br>
+✅Remove Student Records from the System</br>
+✅Generate and Display Student Rankings</br>
 ✅View a list of all students enrolled in the system along with their respective details</br>
 
 ## Installation
