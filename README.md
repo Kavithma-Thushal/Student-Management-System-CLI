@@ -3,7 +3,7 @@
 This is a Command Line Interface (CLI) application designed to manage student information efficiently. It provides
 functionalities to add, view, update, and delete student records through simple commands in the terminal. The Student
 Management System CLI offers a convenient way for educators and administrators to keep track of student data such as
-name, ID, grades, and attendance.
+name, ID and Rankings.
 
 ## Tech Stack
 
